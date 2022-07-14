@@ -1,0 +1,40 @@
+h1{
+    color: #1289fb;
+    font-size: xx-large;
+    font-weight: 900;
+}
+a{
+    color: #ad3489;
+}
+.anynameany{
+    background-color: ivory;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.differentname{
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: space-evenly;
+}
+.giveitaname{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ishouldkeppmymouthshut{
+    display:flex
+    justify-content flex-end;
+}
+p, h2{
+    text-align: center;
+}
+body{
+background-color: #12bf92;
+}
+.thismenu{
+    margin-right: 30px;
+
+}
+.thismenu a{
+    margint-left: 20px;
+}
